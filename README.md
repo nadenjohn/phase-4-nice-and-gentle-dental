@@ -1,3 +1,32 @@
+# Nice and Gentle Dental
+## John Naden
+
+## As a user, I can:
+- Log in and view list of available dentists
+- Read about each provider and the treatments they offer
+- Create an appointment with the provider
+- Delete or update an appointment as necessary
+- Leave a review for a specific provider
+
+## Associations
+![Screen Shot 2022-05-05 at 2 43 35 PM](https://user-images.githubusercontent.com/98439812/167030662-c166b947-8287-4f4e-8bab-d2e58483a323.png)
+
+
+## Wireframe
+1) Login/Signup Page
+![Login Page2022-05-05 at 2 17 00 PM](https://user-images.githubusercontent.com/98439812/167029382-f4b7625a-4dc7-433d-ab21-77df15d6f49c.png)
+
+2) Homepage
+
+![Homepage2022-05-05 at 2 17 42 PM](https://user-images.githubusercontent.com/98439812/167029431-2a452634-d867-45ec-98d4-918f8c62c222.png)
+
+3) Providers Page
+![Providers2022-05-05 at 2 18 07 PM](https://user-images.githubusercontent.com/98439812/167029489-a99daa31-8eab-4a52-bec3-4261a8955e61.png)
+
+4) My Appointments Page
+![Myappointments 2022-05-05 at 2 18 29 PM](https://user-images.githubusercontent.com/98439812/167029536-cff7ee1f-a211-425d-a5a6-c669a2d17836.png)
+
+
 # Project Template: React/Rails API
 
 ## Description
